@@ -1,5 +1,5 @@
 Summary:	bestfit - optimally choose files to be put on a CD (or other media)
-Summary(pl):	bestfit - optymalne wybieranie plików do umieszczenia na CD (lub innym no¶niku)
+Summary(pl.UTF-8):   bestfit - optymalne wybieranie plikÃ³w do umieszczenia na CD (lub innym noÅ›niku)
 Name:		bestfit
 Version:	0.2.0
 Release:	0.1
@@ -21,13 +21,13 @@ and bestfit prints the names of those that were selected.
 Alternatively, bestfit can execute a command for each selected file
 (e.g. to move them to a different directory).
 
-%description -l pl
-Bestfit jest ma³ym programem do okre¶lenia, które pliki powinny byæ
-umieszczone na CD (lub innym no¶niku), tak, ¿eby jak najmniejsza,
-mo¿liwa ilo¶æ miejsca zosta³a zmarnowana. Jest bardzo ³atwy w u¿yciu:
-pliki wyszczególnia siê w linii komend, a bestfit wy¶wietla nazwy,
-które zosta³y wyselekcjonowane. Ewentualnie, bestfit mo¿e wykonaæ
-komendê dla ka¿dego wyselekcjonowanego pliku (np. przenie¶æ go do
+%description -l pl.UTF-8
+Bestfit jest maÅ‚ym programem do okreÅ›lenia, ktÃ³re pliki powinny byÄ‡
+umieszczone na CD (lub innym noÅ›niku), tak, Å¼eby jak najmniejsza,
+moÅ¼liwa iloÅ›Ä‡ miejsca zostaÅ‚a zmarnowana. Jest bardzo Å‚atwy w uÅ¼yciu:
+pliki wyszczegÃ³lnia siÄ™ w linii komend, a bestfit wyÅ›wietla nazwy,
+ktÃ³re zostaÅ‚y wyselekcjonowane. Ewentualnie, bestfit moÅ¼e wykonaÄ‡
+komendÄ™ dla kaÅ¼dego wyselekcjonowanego pliku (np. przenieÅ›Ä‡ go do
 innego katalogu).
 
 %prep
