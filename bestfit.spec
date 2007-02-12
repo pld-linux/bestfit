@@ -1,5 +1,5 @@
 Summary:	bestfit - optimally choose files to be put on a CD (or other media)
-Summary(pl.UTF-8):   bestfit - optymalne wybieranie plików do umieszczenia na CD (lub innym nośniku)
+Summary(pl.UTF-8):	bestfit - optymalne wybieranie plików do umieszczenia na CD (lub innym nośniku)
 Name:		bestfit
 Version:	0.2.0
 Release:	0.1
